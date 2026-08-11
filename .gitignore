@@ -5,4 +5,8 @@ data
 cache
 report
 .python-version
+__pycache__
+competition
+checkpoints
+results
 
